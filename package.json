@@ -1,6 +1,6 @@
 {
   "name": "passport-zoho-crm-fxo",
-  "version": "0.1.3",
+  "version": "1.1.1",
   "description": "Zoho CRM authentication strategy for Passport.",
   "keywords": [
     "passport",
